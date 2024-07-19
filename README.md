@@ -24,7 +24,7 @@ s3://overturemaps-us-west-2/release/2024-06-13-beta.1/
   |-- theme=transportation/
 ```
 
-#### Microsft Azure
+#### Microsoft Azure
 ```
 https://overturemapswestus2.blob.core.windows.net/release/2024-06-13-beta.1/
  |- theme=admins
